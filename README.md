@@ -29,7 +29,7 @@ Agents are modular, each with a single responsibility. The coordinator handles a
 ## 📦 Installation
 
 ```bash
-git clone [https://github.com/gauthamisreenivas/multi-agent-ai-langchain-crewai.git](https://github.com/AIbyKJ/multi-agent-ai-langchain-crewai.git)
+git clone https://github.com/gauthamisreenivas/multi-agent-ai-langchain-crewai.git
 cd multi-agent-ai-langchain-crewai
 pip install -r requirements.txt
 python main.py
